@@ -1,4 +1,5 @@
 import numpy as np
+print("asdasd")
 
 def main():
 --print("oidfjiojdfh")
